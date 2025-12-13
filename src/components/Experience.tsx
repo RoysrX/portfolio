@@ -69,14 +69,14 @@ export function Experience() {
 
   const certifications = [
     {
-      title: "Deep Learning Specialization",
-      issuer: "Coursera - DeepLearning.AI",
+      title: "Cybersecurity Foundations",
+      issuer: "Linkedin Learning",
       period: "2024",
     },
     {
-      title: "TensorFlow Developer Certificate",
-      issuer: "Google",
-      period: "2024",
+      title: "The Cybersecurity Threat LandscapeThe Cybersecurity Threat Landscap",
+      issuer: "Linkedin Learning",
+      period: "2025",
     },
     {
       title: "Machine Learning Engineering",
