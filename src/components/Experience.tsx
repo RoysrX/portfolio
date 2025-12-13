@@ -68,20 +68,29 @@ export function Experience() {
   ];
 
   const certifications = [
+     {
+    title: "Cybersecurity Foundations",
+    issuer: "LinkedIn Learning",
+    period: "2024",
+    link: "https://drive.google.com/file/d/1xHCSCUZyzJHKH3NYgkGb4S88Xxw6j7pt/view?usp=sharing",
+  },
+  {
+    title: "The Cybersecurity Threat Landscape",
+    issuer: "LinkedIn Learning",
+    period: "2025",
+    link: "https://drive.google.com/file/d/1zwKUpOlLZncYQrZ6yWNSKq0uVj9IQQaj/view?usp=sharing",
+  },
     {
-      title: "Cybersecurity Foundations",
-      issuer: "Linkedin Learning",
-      period: "2024",
-    },
-    {
-      title: "The Cybersecurity Threat LandscapeThe Cybersecurity Threat Landscap",
-      issuer: "Linkedin Learning",
-      period: "2025",
-    },
-    {
-      title: "Machine Learning Engineering",
-      issuer: "Coursera - AWS",
+      title: "Discover the Possibilities of Generative AI",
+      issuer: "LinkedIn Learning",
       period: "2023",
+      link: "https://drive.google.com/file/d/1t1Vg-QD8R1OdXT4flW-eAEc2hw0dCY-4/view?usp=sharing",
+    },
+    {
+      title: "Scaling Generative AI: Building a Strategy for Adoption and Expansion",
+      issuer: "LinkedIn Learning",
+      period: "2024",
+      link: "https://drive.google.com/file/d/1ufa89HCaUNkJWXC_DZ1MqZlU_Ub9H3iw/view?usp=sharing",
     },
   ];
 
